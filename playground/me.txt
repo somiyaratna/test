@@ -1,5 +1,0 @@
-{{#user}
-Name: Somiya
-Skills: HTML, CSS, JS, Next.js
-Email: beherasomiyaratna@gmail.com
-{/user}}
